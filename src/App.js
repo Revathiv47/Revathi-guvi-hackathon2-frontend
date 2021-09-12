@@ -3,7 +3,6 @@ import "./App.css";
 import "./portal.css";
 import LandingPage from "./LandingPage";
 import Card from './Card';
-import Data from "./Data"
 import Filter from './Filter';
 import CartItem from './CartItem';
 import CardList from "./CardList";
