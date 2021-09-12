@@ -1,6 +1,5 @@
 import React from 'react'
 import Card from './Card';
-import Data from "./Data"
 import Filter from './Filter';
 import CartItem from './CartItem';
 import {useEffect, useState} from 'react';
